@@ -3,8 +3,7 @@ site_url: https://mkdocs-vidlet-hosting.readthedocs.io/
 repo_name: <jose-sanchez>/<mkdocs-vidlet-hosting>
 edit_uri: ""
 
-# change directory names here
-docs_dir: docs
+
 
 
 theme: mkdocs

@@ -5,7 +5,7 @@ edit_uri: ""
 
 # change directory names here
 docs_dir: docs
-site_dir: site
+
 
 theme: mkdocs
   # the next 2 lines are required to tuse the DIB version

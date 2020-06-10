@@ -14,4 +14,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
+        vidletpage.md #page with all the videos(snakemake)
         ...       # Other markdown pages, images and other files.
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/_2Hn3Bs-erc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		

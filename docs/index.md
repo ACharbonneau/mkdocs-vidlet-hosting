@@ -4,10 +4,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+https://video.ucdavis.edu/id/1_nfn6fs74?width=393&height=700&playerId=24976591
 
 ## Project layout
 
